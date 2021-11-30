@@ -3,6 +3,7 @@ from pygame.locals import *
 
 
 
+
 def on_grid_random():
     x = random.randint(10,390)
     y = random.randint(10,390)
